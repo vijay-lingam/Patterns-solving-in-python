@@ -1,2 +1,2 @@
 # Patterns-solving-in-python
-Patterns solving in python
+Problem solving in python
